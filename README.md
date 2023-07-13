@@ -1,6 +1,12 @@
 # EEG Classification Repository
 This is a part of my master's research project. The goal of the project is to compare the classification performance of various algorithms on EEG signals classification task. The data was collected by Tsinghua University BCI Lab during an experiment with steady-state visual evoked potentials (SSVEPs) focusing on 40 characters flickering at different frequencies. You can check the details of the dataset at the link: http://bci.med.tsinghua.edu.cn/
 
+Featured algorithms:
+- Support Vector Machine
+- Dense Neural Network
+- Convolutional Neural Network
+- LSTM Neural Network
+- EEGNet implemented from Waytowitch et. al (2018)
 
 ## Repository Structure
 The repository has the following structure:
@@ -20,8 +26,9 @@ Feel free to modify the code and adapt it to your specific requirements.
 ## Dependencies
 
 ## Resources
-We would like to thank the contributors and researchers who have made their work available for EEG classification. Their contributions have helped advance the field and make this repository possible.
 
+[1] Wang, Y., Chen, X., Gao, X., & Gao, S. (2016). A benchmark dataset for SSVEP-based brain–computer interfaces. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 25(10), 1746-1752.
+[2] Waytowich, N., Lawhern, V. J., Garcia, J. O., Cummings, J., Faller, J., Sajda, P., & Vettel, J. M. (2018). Compact convolutional neural networks for classification of asynchronous steady-state visual evoked potentials. Journal of neural engineering, 15(6), 066031.
 
 
 
