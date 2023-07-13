@@ -1,5 +1,7 @@
 # EEG Classification Repository
-The goal of the project is to compare the performance of various algorithms on EEG signals classification task. 
+This is a part of my master's research project. The goal of the project is to compare the classification performance of various algorithms on EEG signals classification task. The data was collected by Tsinghua University BCI Lab an experiment with steady-state visual evoked potentials (SSVEPs)
+
+
 ## Repository Structure
 The repository has the following structure:
 
