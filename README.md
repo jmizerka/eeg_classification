@@ -1,6 +1,5 @@
 # EEG Classification Repository
-This repository contains code and models for EEG classification. It serves as a framework for classifying EEG signals using various models, including dense neural networks, convolutional neural networks (CNNs), long short-term memory (LSTM) networks, EEGNet, and support vector machines (SVMs).
-
+The goal of the project is to compare the performance of various algorithms on EEG signals classification task. 
 ## Repository Structure
 The repository has the following structure:
 
