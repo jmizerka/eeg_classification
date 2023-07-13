@@ -16,18 +16,19 @@ hyper_tuning/: This folder contains optimizers for tuning the model parameters.
 preproces/: This folder contains scripts for preprocessing the EEG data, including filtering, standardization/normalization (min-max scaling), data import, and merging into a single dataset.
 models/: This folder contains pre-trained models for EEG classification. The available models include dense neural networks, convolutional neural networks, LSTM networks, EEGNet, and SVMs.
 
-## Getting Started
-To use this repository, follow the steps below:
-
-Clone the repository: git clone https://github.com/your_username/eeg-classification.git
-Install the required dependencies: pip install -r requirements.txt
-Feel free to modify the code and adapt it to your specific requirements.
-
 ## Dependencies
+- tensorflow 2.4.1
+- scikit-learn 1.2.2
+- scipy 1.7.3
+- numpy 1.20.3
+- keras-tuner 1.3.5
+
+
 
 ## Resources
 
 [1] Wang, Y., Chen, X., Gao, X., & Gao, S. (2016). A benchmark dataset for SSVEP-based brain–computer interfaces. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 25(10), 1746-1752.
+
 [2] Waytowich, N., Lawhern, V. J., Garcia, J. O., Cummings, J., Faller, J., Sajda, P., & Vettel, J. M. (2018). Compact convolutional neural networks for classification of asynchronous steady-state visual evoked potentials. Journal of neural engineering, 15(6), 066031.
 
 
