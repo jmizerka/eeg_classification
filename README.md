@@ -1,5 +1,5 @@
 # EEG Classification Repository
-This is a part of my master's research project. The goal of the project is to compare the classification performance of various algorithms on EEG signals classification task. The data was collected by Tsinghua University BCI Lab during an experiment with steady-state visual evoked potentials (SSVEPs) focusing on 40 characters flickering at different frequencies. 
+This is a part of my master's research project. The goal of the project is to compare the classification performance of various algorithms on EEG signals classification task. The data was collected by Tsinghua University BCI Lab during an experiment with steady-state visual evoked potentials (SSVEPs) focusing on 40 characters flickering at different frequencies. You can check the details of the dataset at the link: http://bci.med.tsinghua.edu.cn/
 
 
 ## Repository Structure
